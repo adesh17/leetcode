@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adesh17/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adesh17/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/adesh17/leetcode/tree/master/0141-linked-list-cycle) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adesh17/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
