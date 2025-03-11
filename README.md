@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adesh17/leetcode/tree/master/0020-valid-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adesh17/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
