@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/adesh17/leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/adesh17/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/adesh17/leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/adesh17/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1811-fix-names-in-a-table](https://github.com/adesh17/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adesh17/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
