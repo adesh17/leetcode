@@ -17,7 +17,7 @@ def department_highest_salary(employee: pd.DataFrame, department: pd.DataFrame) 
     
     result = result[['name_x', 'name_y', 'salary']]
     
-    # Rename columns for clarity
+    
     result.columns = ['Employee', 'Department', 'Salary']
     
     return result
