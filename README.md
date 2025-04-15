@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/adesh17/leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/adesh17/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1811-fix-names-in-a-table](https://github.com/adesh17/leetcode/tree/master/1811-fix-names-in-a-table) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/adesh17/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adesh17/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/adesh17/leetcode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
