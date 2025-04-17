@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## String
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/adesh17/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/adesh17/leetcode/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/adesh17/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
