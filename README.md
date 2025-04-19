@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/adesh17/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adesh17/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/adesh17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/adesh17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
