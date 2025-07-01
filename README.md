@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/adesh17/leetcode/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
