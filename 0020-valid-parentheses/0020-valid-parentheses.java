@@ -1,43 +1,43 @@
 class Solution {
-    
-    boolean isOpening(char c)
+
+    public boolean isOpening(char ch)
     {
-        return c=='(' || c=='{' || c=='[';
+        return ch=='(' || ch=='{' || ch=='[';
     }
 
-    boolean match(char o,char c)
+    public boolean isMatch(char o,char c)
     {
-        return o=='(' && c==')' || o=='[' && c==']' || o=='{' && c=='}';
+        return o=='(' && c==')' || o=='{' && c=='}' || o=='[' && c==']';
     }
 
     public boolean isValid(String s) 
     {
-        Stack<Character> mystack=new Stack<Character>();
+        Stack<Character> s1=new Stack<>();
 
         for(int i=0;i<s.length();i++)
         {
-            char curr=s.charAt(i);
-            if(isOpening(curr))
+            char b=s.charAt(i);
+
+            if(isOpening(b))
             {
-                mystack.push(curr);
+                s1.push(b);
             }
             else
             {
-                if(mystack.isEmpty())
+                if(s1.isEmpty())
                 {
                     return false;
                 }
-
-                if(!match(mystack.peek(),curr))
+                if(!isMatch(s1.peek(),b))
                 {
                     return false;
                 }
                 else
                 {
-                    mystack.pop();
+                    s1.pop();
                 }
             }
-        }    
-        return mystack.isEmpty();
+        }
+        return s1.isEmpty();
     }
 }
