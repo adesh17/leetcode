@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adesh17/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adesh17/leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
