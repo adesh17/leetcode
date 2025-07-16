@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adesh17/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/adesh17/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adesh17/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/adesh17/leetcode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/adesh17/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/adesh17/leetcode/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/adesh17/leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/adesh17/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
