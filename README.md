@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adesh17/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/adesh17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/adesh17/leetcode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/adesh17/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/adesh17/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/adesh17/leetcode/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/adesh17/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/adesh17/leetcode/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
