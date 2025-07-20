@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adesh17/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adesh17/leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/adesh17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adesh17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adesh17/leetcode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/adesh17/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/adesh17/leetcode/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/adesh17/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/adesh17/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/adesh17/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adesh17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/adesh17/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
