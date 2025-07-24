@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adesh17/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## String
 |  |
@@ -150,4 +151,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adesh17/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adesh17/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adesh17/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
