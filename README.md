@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adesh17/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/adesh17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/adesh17/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/adesh17/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/adesh17/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/adesh17/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adesh17/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adesh17/leetcode/tree/master/0015-3sum) |
+| [0941-sort-array-by-parity](https://github.com/adesh17/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
