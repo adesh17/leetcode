@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/adesh17/leetcode/tree/master/0595-big-countries) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adesh17/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/adesh17/leetcode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/adesh17/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adesh17/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1811-fix-names-in-a-table](https://github.com/adesh17/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/adesh17/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
