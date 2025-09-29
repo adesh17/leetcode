@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adesh17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/adesh17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/adesh17/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1168-duplicate-zeros](https://github.com/adesh17/leetcode/tree/master/1168-duplicate-zeros) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/adesh17/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/adesh17/leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/adesh17/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1072-next-greater-node-in-linked-list](https://github.com/adesh17/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1168-duplicate-zeros](https://github.com/adesh17/leetcode/tree/master/1168-duplicate-zeros) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adesh17/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2195-time-needed-to-buy-tickets](https://github.com/adesh17/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## String
